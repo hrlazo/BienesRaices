@@ -1,6 +1,6 @@
 <?php 
-    require 'includes/funciones.php';    
-    incluirTemplate('header'); // Llamamos los templates para header
+    require 'includes/funciones.php';
+    incluirTemplate('header');
 ?>
 
     <main class="contenedor seccion">
@@ -73,6 +73,6 @@
         </form>
     </main>
 
-<?php 
-   incluirTemplate('footer');
++<?php 
+    incluirTemplate('footer');
 ?>
